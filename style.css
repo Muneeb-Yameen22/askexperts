@@ -74,7 +74,7 @@ nav .nav-item .nav-link:hover::before{
 /* Heroarea Open */
 
 .heroarea{
-	background-image: url(images/banner.png);
+	background-image: url(banner.png);
 	height: 70vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -134,7 +134,7 @@ nav .nav-item .nav-link:hover::before{
 	align-items: end;
 	height: 470px;
 	border-radius: 20px;
-	background-image: url(images/01.png);
+	background-image: url(01.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -144,7 +144,7 @@ nav .nav-item .nav-link:hover::before{
 	align-items: end;
 	height: 470px;
 	border-radius: 20px;
-	background-image: url(images/02.png);
+	background-image: url(02.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -154,7 +154,7 @@ nav .nav-item .nav-link:hover::before{
 	align-items: end;
 	height: 470px;
 	border-radius: 20px;
-	background-image: url(images/03.png);
+	background-image: url(03.png);
 	background-size: cover;
 	background-color: #1B1B1B;
 	background-repeat: no-repeat;
@@ -404,7 +404,7 @@ nav .nav-item .nav-link:hover::before{
 /* Gallery Sec Open */
 
 .gallery_sec{
-	background-image: url(images/14.png);
+	background-image: url(14.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -442,7 +442,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_1{
 	position: relative;
-	background-image: url(images/15.png);
+	background-image: url(15.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -489,7 +489,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_2{
 	position: relative;
-	background-image: url(images/16.png);
+	background-image: url(16.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -536,7 +536,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_3{
 	position: relative;
-	background-image: url(images/17.png);
+	background-image: url(17.png);
 	height: 735px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -583,7 +583,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_4{
 	position: relative;
-	background-image: url(images/18.png);
+	background-image: url(18.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -630,7 +630,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_5{
 	position: relative;
-	background-image: url(images/19.png);
+	background-image: url(19.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -677,7 +677,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_6{
 	position: relative;
-	background-image: url(images/20.png);
+	background-image: url(20.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -724,7 +724,7 @@ nav .nav-item .nav-link:hover::before{
 }
 .gallery_7{
 	position: relative;
-	background-image: url(images/21.png);
+	background-image: url(21.png);
 	height: 345px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1086,7 +1086,7 @@ nav .nav-item .nav-link:hover::before{
 /* Team Sec Open */
 
 .team_sec{
-	background-image: url(images/31.png);
+	background-image: url(31.png);
 	height: 70vh;
 	background-position: center center;
 	background-size: cover;
